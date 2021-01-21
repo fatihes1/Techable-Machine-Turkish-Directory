@@ -1,0 +1,21 @@
+0 Background
+1 Apple
+2 Banana
+3 Bell Pepper
+4 Cabbage
+5 Carrot
+6 Cauliflower
+7 Corn
+8 Cucumber
+9 Eggplant
+10 Grapes
+11 Kiwi
+12 Lemon
+13 Lettuce
+14 Onion
+15 Orange
+16 Pear
+17 Pineapple
+18 Patato
+19 Tomato
+20 Watermelon
