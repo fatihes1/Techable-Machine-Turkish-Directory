@@ -42,20 +42,20 @@ Google Techable Machine Kullanımı Hakkında Rehber ve Meyve-Sebze Sınıfland�
 <p><strong>Windows Kurulumu : </strong>Python 3&rsquo;&uuml;n kurulu olduğunu varsayar.Python 3 &ccedil;alıştırılabilir dosyanızın &lsquo;python3&rsquo; ile &ccedil;ağrıldığını varsayar. Aksi takdirde, kabuk komut dosyasını d&uuml;zenlemeniz ve &lsquo;python3&rsquo; komutunun her &ouml;rneğini &lsquo;python&rsquo; ile değiştirmeniz gerekir. &lsquo;Windows_install.btt&rsquo; toplu komut dosyasını &ccedil;alıştırmalıyız ancak y&ouml;netici olarak <strong>&ccedil;alıştırmayalım. </strong>Sistem ve internet hızına bağlı olarak yarım saat veya daha fazla s&uuml;rebilmektedir.</p>
 <p><strong>Mac Kurulumu: </strong>Python 3&rsquo;&uuml;n kurulu olduğunu varsayar.Python 3 &ccedil;alıştırılabilir dosyanızın &lsquo;python3&rsquo; ile &ccedil;ağrıldığını varsayar. Aksi takdirde, kabuk komut dosyasını d&uuml;zenlemeniz ve &lsquo;python3&rsquo; komutunun her &ouml;rneğini &lsquo;python&rsquo; ile değiştirmeniz gerekir. İndirilen dosyların olduğu klas&ouml;rde a&ccedil;ılan terminale şu kodu yazarak komut dosyasını &ccedil;alıştırılabilir hale getirmeniz gerekmektedir :</p>
 <ul>
-<li>`sudo chmod + x ./installation_scripts/mac_install.sh`&nbsp;</li>
+<li>sudo chmod + x ./installation_scripts/mac_install.sh&nbsp;</li>
 </ul>
 <p>&nbsp;Kabuk komut dosyasını şu komutu kullanarak &ccedil;alıştırabilirsiniz:</p>
 <ul>
-<li>`./installation_scripts/mac_install.sh`</li>
+<li>./installation_scripts/mac_install.sh</li>
 </ul>
 <p>&nbsp;Sistem ve internet hızına bağlı olarak yarım saat veya daha fazla s&uuml;rebilmektedir.</p>
 <p><strong>Linux Kurulumu: </strong>Python 3&rsquo;&uuml;n kurulu olduğunu varsayar.Python 3 &ccedil;alıştırılabilir dosyanızın &lsquo;python3&rsquo; ile &ccedil;ağrıldığını varsayar. Aksi takdirde, kabuk komut dosyasını d&uuml;zenlemeniz ve &lsquo;python3&rsquo; komutunun her &ouml;rneğini &lsquo;python&rsquo; ile değiştirmeniz gerekir. İndirilen dosyların olduğu klas&ouml;rde a&ccedil;ılan terminale şu kodu yazarak komut dosyasını &ccedil;alıştırılabilir hale getirmeniz gerekmektedir :</p>
 <ul>
-<li>` sudo chmod + x ./installation_scripts/linux_install.sh`</li>
+<li> sudo chmod + x ./installation_scripts/linux_install.sh</li>
 </ul>
 <p>&nbsp;&nbsp;Kabuk komut dosyasını şu komutu kullanarak &ccedil;alıştırabilirsiniz:</p>
 <ul>
-<li>`./installation_scripts/inux_install.sh`</li>
+<li>./installation_scripts/inux_install.sh</li>
 </ul>
 <p>&nbsp;<strong>Not: OpenCV ve Tensorfow kurulumlarını resmi siteleri &uuml;zerinden de yapabilirsiniz.</strong></p>
 
